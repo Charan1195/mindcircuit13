@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: ccharan1306/realtime:2
+        image: charan1306/realtime:2
         ports:
         - containerPort: 8080
 
